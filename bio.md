@@ -1,0 +1,1 @@
+I got it to create from terminal and open from terminal!
